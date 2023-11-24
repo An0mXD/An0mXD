@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [An0mDDoS](https://github.com/An0mXD/An0mSDK)
 
-- 🌱 I’m currently learning **Python and CompTIA Linux**
+- 🌱 I’m currently learning **Python and CompTIA Linux+**
 
 - 👨‍💻 All of my projects are available at [https://github.com/An0mXD?tab=repositories](https://github.com/An0mXD?tab=repositories)
 
