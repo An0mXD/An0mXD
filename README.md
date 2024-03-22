@@ -16,7 +16,8 @@
 - 📫 How to reach me **Discord : cyber_anom**
 
 - ⚡ Fun fact **I <3 Cyber Security**
-<img align="center" src="https://github.com/An0mXD/An0mXD/blob/main/image_2024-03-23_004743365.png?raw=true"
+
+<p align="center"> <img src="https://github.com/An0mXD/An0mXD/blob/main/image_2024-03-23_004743365.png?raw=true" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/an0mxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="an0mxd" height="30" width="40" /></a>
