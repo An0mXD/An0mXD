@@ -29,5 +29,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/An0m"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="An0m" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&show_icons=true&theme=darkhub&title_color=ffffff&text_color=ffffff&bg_color=101010&locale=en" alt="an0mxd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an0mxd&show_icons=true&theme=darkhub&title_color=ffffff&text_color=ffffff&bg_color=101010&locale=en" alt="an0mxd" /></p>
 
