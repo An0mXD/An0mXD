@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and CompTIA Linux+**
 
-- 👨‍💻 All of my projects are available at [Link](https://github.com/An0mXD?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHubLink](https://github.com/An0mXD?tab=repositories)
 
 - 💬 Ask me about **Cyber Security**
 
