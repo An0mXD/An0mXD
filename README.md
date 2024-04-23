@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=an0mxd&label=Profile%20views&color=0e75b6&style=flat" alt="an0mxd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an0mxd&theme=onedark" alt="an0mxd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an0mxd&theme=monokai" alt="an0mxd" /></a> </p>
 
 - 🔭 I’m currently working on [An0mOS](http://anomos.liveblog365.com)
 
