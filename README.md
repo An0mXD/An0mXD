@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm An0m</h1>
-<h3 align="center">Idiot</h3>
+<h3 align="center">0x22</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=an0mxd&label=Profile%20views&color=0e75b6&style=flat" alt="an0mxd" /> </p>
 
