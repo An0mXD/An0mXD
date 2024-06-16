@@ -20,6 +20,7 @@
 <p align="center"> <img src="https://github.com/An0mXD/An0mXD/blob/main/image_2024-04-22_141125851.png?raw=true" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://tordb.xyz/user/an0m" target="blank"><img align="center" src="https://github.com/An0mXD/An0mXD/blob/main/image-removebg-preview11.png?raw=true" alt="an0m" height="30" width="40" </a>
 <a href="https://doxbin.net/user/An0mXD" target="blank"><img align="center" src="https://github.com/An0mXD/An0mXD/blob/main/image-removebg-preview.png?raw=true" alt="an0mxd" height="30" width="40" /></a>
 </p>
 
