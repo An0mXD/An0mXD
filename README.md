@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Cyber Security**
 
-- 📫 How to reach me **Discord : cyber_anom**
+- 📫 How to reach me **Discord : iswatpeople_**
 
 - ⚡ Fun fact **I <3 Cyber Security**
 
